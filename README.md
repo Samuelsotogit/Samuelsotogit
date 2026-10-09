@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Samuelsotogit
-- 👀 I’m interested in web application development
-- 🌱 I’m currently learning web programming
+- 👀 I’m interested in AI integration 
+- 🌱 I’m currently learning about Agentic Workflows
 - 💞️ I’m looking to collaborate on startup application projects
 - 📫 How to reach me samuelsotointernational@gmail.com
-- ⚡ Fun fact: Never lived anywhere for more than two years
+- ⚡ Fun fact: I am fluent in 3 languages
 
 <!---
 Samuelsotogit/Samuelsotogit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
